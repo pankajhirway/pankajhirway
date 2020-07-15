@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Go and AWS
+- 🔭 I’m currently working onAngular, Go and AWS
 
 - 🌱 I’m currently learning React
 
