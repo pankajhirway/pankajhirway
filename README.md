@@ -5,13 +5,11 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working onAngular, Go and AWS
+- 🔭 I’m currently working on Angular, Go, Docker and AWS
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Kubernetes
 
 
 - 💬 Ask me about Angular and Golang
 - 📫 How to reach me:Tweet to @Askthepunkuzz
-
-- ⚡ Fun fact: I am very lazy
 
