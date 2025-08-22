@@ -5,11 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Angular, Go, Docker and AWS
-
-- 🌱 I’m currently learning Kubernetes
-
-
-- 💬 Ask me about Angular and Golang
+- 🔭 I’m currently working on JAVA, Go, Docker and AWS
+- 🌱 I’m currently learning AI and LLMs
+- 💬 Ask me about Golang, JAVA, Dotnet and Kubernetes
 - 📫 How to reach me:Tweet to @Askthepunkuzz
 
